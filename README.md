@@ -13,7 +13,7 @@ First came prompt engineering, our way of keeping AI ours. Prompts didn't cut it
 ## Install
 
 ```
-npx skills add kartikaydhar7/skill-cauldron
+npx skills add kaidhar/skill-cauldron
 ```
 
 Or copy `skills/skill-cauldron` into your skills folder (for Claude Code, `~/.claude/skills/`).
